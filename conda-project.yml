@@ -1,6 +1,0 @@
-name: machinelearning
-environments:
-  default:
-    - environment.yml
-variables: {}
-commands: {}
