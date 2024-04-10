@@ -1,0 +1,201 @@
+Subject,NLTK,Match
+Exclusive offer - don't miss,Exclusive offer - n't miss,False
+Special promotion - save 50%,Special promotion - save 50 %,False
+Exclusive offer - don't miss,Exclusive offer - n't miss,False
+Win big exclusive lottery,Win big exclusive lottery,True
+Special promotion - save 50%,Special promotion - save 50 %,False
+Win big exclusive lottery,Win big exclusive lottery,True
+Win big exclusive lottery,Win big exclusive lottery,True
+Unlock hidden potential course,Unlock hidden potential course,True
+Get rich quick amazing secret,Get rich quick amazing secret,True
+Unlock hidden potential course,Unlock hidden potential course,True
+Exclusive offer - don't miss,Exclusive offer - n't miss,False
+Unlock hidden potential course,Unlock hidden potential course,True
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+"Congratulations, you've selected special offer!","Congratulations , 've selected special offer !",False
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+Get rich quick amazing secret,Get rich quick amazing secret,True
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+Get rich quick amazing secret,Get rich quick amazing secret,True
+Get rich quick amazing secret,Get rich quick amazing secret,True
+Special promotion - save 50%,Special promotion - save 50 %,False
+Unlock hidden potential course,Unlock hidden potential course,True
+Unlock hidden potential course,Unlock hidden potential course,True
+"Congratulations, you've selected special offer!","Congratulations , 've selected special offer !",False
+Get rich quick amazing secret,Get rich quick amazing secret,True
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Unlock hidden potential course,Unlock hidden potential course,True
+You're winner! Claim exciting prize now.,'re winner ! Claim exciting prize .,False
+Unlock hidden potential course,Unlock hidden potential course,True
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Exclusive offer - don't miss,Exclusive offer - n't miss,False
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+You won free vacation Hawaii!,free vacation Hawaii !,False
+Win big exclusive lottery,Win big exclusive lottery,True
+Get rich quick amazing secret,Get rich quick amazing secret,True
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Special promotion - save 50%,Special promotion - save 50 %,False
+You won free vacation Hawaii!,free vacation Hawaii !,False
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+You won free vacation Hawaii!,free vacation Hawaii !,False
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+You're winner! Claim exciting prize now.,'re winner ! Claim exciting prize .,False
+"Congratulations, you've selected special offer!","Congratulations , 've selected special offer !",False
+Get rich quick amazing secret,Get rich quick amazing secret,True
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+You're winner! Claim exciting prize now.,'re winner ! Claim exciting prize .,False
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Unlock hidden potential course,Unlock hidden potential course,True
+Get rich quick amazing secret,Get rich quick amazing secret,True
+Unlock hidden potential course,Unlock hidden potential course,True
+Win big exclusive lottery,Win big exclusive lottery,True
+Exclusive offer - don't miss,Exclusive offer - n't miss,False
+Get rich quick amazing secret,Get rich quick amazing secret,True
+"Congratulations, you've selected special offer!","Congratulations , 've selected special offer !",False
+You're winner! Claim exciting prize now.,'re winner ! Claim exciting prize .,False
+Win big exclusive lottery,Win big exclusive lottery,True
+Win big exclusive lottery,Win big exclusive lottery,True
+Unlock hidden potential course,Unlock hidden potential course,True
+Get rich quick amazing secret,Get rich quick amazing secret,True
+You're winner! Claim exciting prize now.,'re winner ! Claim exciting prize .,False
+You won free vacation Hawaii!,free vacation Hawaii !,False
+"Congratulations, you've selected special offer!","Congratulations , 've selected special offer !",False
+Exclusive offer - don't miss,Exclusive offer - n't miss,False
+"Congratulations, you've selected special offer!","Congratulations , 've selected special offer !",False
+"Congratulations, you've selected special offer!","Congratulations , 've selected special offer !",False
+You won free vacation Hawaii!,free vacation Hawaii !,False
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+Unlock hidden potential course,Unlock hidden potential course,True
+Special promotion - save 50%,Special promotion - save 50 %,False
+Win big exclusive lottery,Win big exclusive lottery,True
+You won free vacation Hawaii!,free vacation Hawaii !,False
+Get rich quick amazing secret,Get rich quick amazing secret,True
+Exclusive offer - don't miss,Exclusive offer - n't miss,False
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Win big exclusive lottery,Win big exclusive lottery,True
+Special promotion - save 50%,Special promotion - save 50 %,False
+"Congratulations, you've selected special offer!","Congratulations , 've selected special offer !",False
+Unlock hidden potential course,Unlock hidden potential course,True
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+You won free vacation Hawaii!,free vacation Hawaii !,False
+Exclusive offer - don't miss,Exclusive offer - n't miss,False
+You won free vacation Hawaii!,free vacation Hawaii !,False
+You won free vacation Hawaii!,free vacation Hawaii !,False
+Guaranteed weight loss 4 weeks!,Guaranteed weight loss 4 weeks !,False
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+Earn $$$ home easily starting today,Earn $ $ $ home easily starting today,False
+Win big exclusive lottery,Win big exclusive lottery,True
+Win big exclusive lottery,Win big exclusive lottery,True
+You're winner! Claim exciting prize now.,'re winner ! Claim exciting prize .,False
+You won free vacation Hawaii!,free vacation Hawaii !,False
+Special promotion - save 50%,Special promotion - save 50 %,False
+Get rich quick amazing secret,Get rich quick amazing secret,True
+You're winner! Claim exciting prize now.,'re winner ! Claim exciting prize .,False
+You're winner! Claim exciting prize now.,'re winner ! Claim exciting prize .,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
+Weekly newsletter updates,Weekly newsletter updates,True
+Team meeting schedule next week,Team meeting schedule next week,True
+Your order shipped,order shipped,False
+Upcoming events month,Upcoming events month,True
+Happy birthday greetings us,Happy birthday greetings us,True
+Project deadline reminder: due next Friday,Project deadline reminder : due next Friday,False
+Your account balance update,account balance update,False
+Thank purchase store,Thank purchase store,True
+Survey: value opinion,Survey : value opinion,False
+Invitation: join webinar latest trends,Invitation : join webinar latest trends,False
